@@ -1,6 +1,6 @@
-# AI Product Manager | Agent Workflows | RAG Evaluation | Product Prototyping
+# AI Product Manager | Agents | RAG Evaluation | Product Prototypes That Ship
 
-I build AI product demos that make model behavior visible, testable, and safe to review.
+I build AI product demos that make model behavior visible, testable, and safe to review. My portfolio focuses on agent workflows, RAG research systems, multimodal review tools, operations copilots, and AI safety boundaries.
 
 ## What I Focus On
 
@@ -11,11 +11,20 @@ I build AI product demos that make model behavior visible, testable, and safe to
 
 ## Featured Work
 
-- **ProofOS**: evidence-driven AI portfolio with citation-aware answers and JD-fit review.
-- **OrgLens Agent**: organization diagnosis workflow that compares hiring, process, automation, and outsourcing options.
-- **Paper Format Copilot**: document formatting assistant with deterministic checks and AI issue explanations.
-- **TrustOps Rule Copilot**: content safety rule drafting, conflict checking, and approval logging.
-- **Inspiration Map AI**: note-to-knowledge-map prototype with editable nodes, source citations, and review tasks.
+- **ProofOS**: evidence-backed portfolio engine with citation-aware answers and JD-fit review.
+- **SignalDesk Research Agent**: RAG intelligence desk for cited market, customer, and competitor synthesis.
+- **OrgLens Agent**: decision copilot that separates hiring needs from workflow, automation, and approval fixes.
+- **CommercePilot Copilot**: marketplace operations command center for pricing, stock, campaign, and review signals.
+- **ScenePulse Video Agent**: multimodal highlight builder with timestamps, confidence, and review queues.
+- **Paper Format Copilot**: rule-first document QA assistant with deterministic checks and AI explanations.
+- **TrustOps Rule Copilot**: policy-to-rule workflow with conflict checking and approval logs.
+- **FitCheck Motion Coach**: safe motion-feedback prototype using synthetic movement metrics.
+- **Inspiration Map AI**: source-grounded idea graph builder with editable nodes and citations.
+- **CareOps Device Agent**: explainable smart-device alert triage with owner-controlled actions.
+
+## Portfolio
+
+Main project package: https://github.com/ljj24681379-png/ai-product-portfolio
 
 ## Product Principles
 
@@ -23,4 +32,3 @@ I build AI product demos that make model behavior visible, testable, and safe to
 - Demo data should be labeled clearly.
 - Important actions should be auditable.
 - A good AI PM project explains why AI is needed, where rules are better, and how failure is handled.
-
