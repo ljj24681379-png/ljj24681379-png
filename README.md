@@ -46,7 +46,7 @@
 
 **完整案例｜交互任务回放｜模拟数据**
 
-[查看项目](https://github.com/ljj24681379-png/ai-context-engineering) · [在线 Demo](https://ljj24681379-png.github.io/ai-context-engineering/)
+[查看项目](https://github.com/ljj24681379-png/ai-context-engineering)
 
 ### 03 · 一人 AI 产品团队
 
