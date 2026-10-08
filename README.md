@@ -46,31 +46,31 @@
 
 **完整案例｜交互任务回放｜模拟数据**
 
-[查看项目](https://github.com/ljj24681379-png/ai-context-engineering)
+[查看项目](https://github.com/ljj24681379-png/ai-context-engineering) · [在线 Demo](https://ljj24681379-png.github.io/ai-context-engineering/)
 
 ### 03 · 一人 AI 产品团队
 
 一个产品经理如何带着研究、产品、设计、开发和测试 Agent，从面试训练工具的想法走向可运行 Demo。
 
-**产品框架已完成｜交互 Demo 建设中**
+**第一版已完成｜交互 Demo 可运行**
 
-[查看项目](https://github.com/ljj24681379-png/ai-product-team)
+[查看项目](https://github.com/ljj24681379-png/ai-product-team) · [在线 Demo](https://ljj24681379-png.github.io/ai-product-team/)
 
 ### 04 · AI 产品可靠性实验
 
 用双路校验、可信等级、过程追溯与异常接管，让业务 Agent 的结果可相信、可追溯、可控制。
 
-**产品框架已完成｜对比 Demo 建设中**
+**第一版已完成｜对比 Demo 可运行**
 
-[查看项目](https://github.com/ljj24681379-png/reliable-ai-agent)
+[查看项目](https://github.com/ljj24681379-png/reliable-ai-agent) · [在线 Demo](https://ljj24681379-png.github.io/reliable-ai-agent/)
 
 ### 05 · 多 Agent 产品研究工作流
 
 让多个 Agent 分工完成资料搜索、产品分析、用户评价、竞品对比、报告生成和来源审核。
 
-**研究流程已完成｜预置 Demo 建设中**
+**第一版已完成｜预置 Demo 可运行**
 
-[查看项目](https://github.com/ljj24681379-png/multi-agent-research)
+[查看项目](https://github.com/ljj24681379-png/multi-agent-research) · [在线 Demo](https://ljj24681379-png.github.io/multi-agent-research/)
 
 ### 06 · AI 产品研究笔记
 
